@@ -1,0 +1,17 @@
+da54c3cae0edadb56affaa7f11ff2281 *DESCRIPTION
+d2e01bdd6f05638a93760827c34639a2 *NAMESPACE
+5ee346220e2e3443ae165804145f7b89 *R/Leopardus_wiedii_gbif.R
+5418284429deacf6f0d1bf71ca90a325 *R/generate_occ_uncertain.R
+fc466429fe2bd6344a125419f31eadfa *R/meters_to_decdeg.R
+6d5524c005091c70ed619a6de475adfd *R/random_geo_range.R
+cb7f51be7ee381bb27de372045842a75 *build/vignette.rds
+44102c63321b8b2ac7297f91ecd34af3 *data/Leopardus_wiedii_gbif.rda
+08c6b0cea56bc971bc949c77fbf2d997 *inst/doc/occUncertain-vignette.R
+0728d43cf640d14ffdacab7717619055 *inst/doc/occUncertain-vignette.Rmd
+ce44c60454ef84eb10b62a8ac11e145b *inst/doc/occUncertain-vignette.html
+44102c63321b8b2ac7297f91ecd34af3 *inst/extdata/Leopardus_wiedii_gbif.csv
+50cf8102b07ccaafb524f427249b2ffe *man/Leopardus_wiedii_gbif.Rd
+2e26d80decdf0b29ec19ca4942e27779 *man/generate_occ_uncertain.Rd
+ea4fa0d73f81a173da4aad74f84bf05c *man/meters_to_decdeg.Rd
+02b44aadb0a26c52d263fd27e44e74a6 *man/random_geo_range.Rd
+0728d43cf640d14ffdacab7717619055 *vignettes/occUncertain-vignette.Rmd
